@@ -1,6 +1,6 @@
 # Machine Learning
 
-Simple machine learning python using [sklearn](https://scikit-learn.org/stable/), Tumor classification.
+Simple machine learning python using [sklearn](https://scikit-learn.org/stable/), Tumor Predictions.
 
 ## Development Tools
 
